@@ -46,5 +46,11 @@ Prompt Size Limitations:
 → Adjust for size: “Give me 10 AI applications at a time.”
 
 
+**Selected use case**
+
+**Comparative Analysis Prompt**
+
+
+
 
 # Result: The various types of Prompts are executed successfully with generated the report.

@@ -48,7 +48,10 @@ Prompt Size Limitations:
 → Adjust for size: “Give me 10 AI applications at a time.”
 
 
-**SELECTED USE CASE**
+
+
+
+***SELECTED USE CASE***
 *Social media sentiment analysis*
 
 **Comparative Analysis Prompt**
